@@ -1,0 +1,65 @@
+# Dependencies
+node_modules/
+node_modules.backup/
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Runtime data
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Backup files
+*.backup
+*.bak
+*.old
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+converted/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Node
+dist/
+build/
+
+# PDF and Image files (keep examples, ignore others)
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# Skill related
+*.skill
